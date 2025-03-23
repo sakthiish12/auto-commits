@@ -127,3 +127,4 @@ def main():
 if __name__ == "__main__":
     main() 
 # Added error handling - 2025-03-23 19:22:07
+# Improved user experience - 2025-03-23 19:31:59
